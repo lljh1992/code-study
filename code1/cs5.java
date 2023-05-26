@@ -4,9 +4,9 @@ public class cs5 {
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
 
-    float A = sc.nextInt();
-    float B = sc.nextInt();
+    double a = sc.nextInt();
+    double b = sc.nextInt();
 
-    System.out.println(A / B);
+    System.out.println(a / b);
   }
 }
